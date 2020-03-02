@@ -1,0 +1,10 @@
+C:\Users\Borislav\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\netcoreapp2.1\ArmstrongNumber.deps.json
+C:\Users\Borislav\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\netcoreapp2.1\ArmstrongNumber.runtimeconfig.json
+C:\Users\Borislav\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\netcoreapp2.1\ArmstrongNumber.runtimeconfig.dev.json
+C:\Users\Borislav\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\netcoreapp2.1\ArmstrongNumber.dll
+C:\Users\Borislav\source\repos\ConsoleApp8\ConsoleApp8\bin\Debug\netcoreapp2.1\ArmstrongNumber.pdb
+C:\Users\Borislav\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp2.1\ArmstrongNumber.csproj.CoreCompileInputs.cache
+C:\Users\Borislav\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp2.1\ArmstrongNumber.AssemblyInfoInputs.cache
+C:\Users\Borislav\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp2.1\ArmstrongNumber.AssemblyInfo.cs
+C:\Users\Borislav\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp2.1\ArmstrongNumber.dll
+C:\Users\Borislav\source\repos\ConsoleApp8\ConsoleApp8\obj\Debug\netcoreapp2.1\ArmstrongNumber.pdb
