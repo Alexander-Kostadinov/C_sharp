@@ -1,0 +1,11 @@
+C:\Users\Borislav\source\repos\LadyBugs\LadyBugs\bin\Debug\netcoreapp2.1\LadyBugs.deps.json
+C:\Users\Borislav\source\repos\LadyBugs\LadyBugs\bin\Debug\netcoreapp2.1\LadyBugs.runtimeconfig.json
+C:\Users\Borislav\source\repos\LadyBugs\LadyBugs\bin\Debug\netcoreapp2.1\LadyBugs.runtimeconfig.dev.json
+C:\Users\Borislav\source\repos\LadyBugs\LadyBugs\bin\Debug\netcoreapp2.1\LadyBugs.dll
+C:\Users\Borislav\source\repos\LadyBugs\LadyBugs\bin\Debug\netcoreapp2.1\LadyBugs.pdb
+C:\Users\Borislav\source\repos\LadyBugs\LadyBugs\obj\Debug\netcoreapp2.1\LadyBugs.csprojAssemblyReference.cache
+C:\Users\Borislav\source\repos\LadyBugs\LadyBugs\obj\Debug\netcoreapp2.1\LadyBugs.csproj.CoreCompileInputs.cache
+C:\Users\Borislav\source\repos\LadyBugs\LadyBugs\obj\Debug\netcoreapp2.1\LadyBugs.AssemblyInfoInputs.cache
+C:\Users\Borislav\source\repos\LadyBugs\LadyBugs\obj\Debug\netcoreapp2.1\LadyBugs.AssemblyInfo.cs
+C:\Users\Borislav\source\repos\LadyBugs\LadyBugs\obj\Debug\netcoreapp2.1\LadyBugs.dll
+C:\Users\Borislav\source\repos\LadyBugs\LadyBugs\obj\Debug\netcoreapp2.1\LadyBugs.pdb
